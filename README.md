@@ -5,12 +5,9 @@ A machine learning app that classifies text messages as **spam** or **ham** (leg
 **[Live demo](https://colleymo-spam-ham.streamlit.app)** · Python · scikit-learn · Streamlit
 
 <!-- Add a screenshot or short GIF of the app here: ![Demo](docs/demo.png) -->
-<p align="center">
-  <img src="doccy/ss-base.png" alt="screenshot" />
-</p>
-
-<p align="center">
-  <img src="doccy/ss-ham.png" alt="screenshot" />
+<p align="centre">
+  <img src="doccy/ss-base.png" width="49%" alt="screenshot" />
+  <img src="doccy/ss-ham.png" width="49%" alt="screenshot" />
 </p>
 
 <p align="center">
