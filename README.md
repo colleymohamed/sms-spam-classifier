@@ -22,10 +22,10 @@ Spam and phishing messages are a daily nuisance and a real security risk. This p
 
 | Metric    | Score |
 |-----------|-------|
-| Accuracy  | XX%   |
-| Precision | XX%   |
-| Recall    | XX%   |
-| F1-score  | XX%   |
+| Accuracy  | 95%   |
+| Precision | 0.96  |
+| Recall    | 0.96  |
+| F1-score  | 0.96  |
 
 <!-- Fill in from your notebook. Spam data is usually imbalanced, so report precision, recall and F1, not just accuracy. Optionally add a confusion matrix image. -->
 
